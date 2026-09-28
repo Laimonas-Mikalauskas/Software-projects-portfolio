@@ -12,7 +12,7 @@ Focus: OOP, algorithms, grid-based logic, game loops
 
 An implementation of Conway's Game Of Life by using objest-oriented programming design to simulate cellular automaton behaviour
 
-2.2 Key Features:
+1.2 Key Features:
 
 - Grid-based state management
 - Rule-based evolution system
