@@ -1,4 +1,3 @@
-# Software-projects-portfolio
 This repository contains various projects ranging from interactive game to high performance application development. It focuses on visualization of game animated states and scalable backend functionality
 
 1. Conway's Game Of Life
@@ -80,3 +79,13 @@ A high performance application-driven and database-integrated project to reinfor
 - orders.py - handles current order status logic
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
+
+4. Tech Stack
+- Python (data types, formatted console output, control flow, error handling)
+- OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database, lightweight web application and password managers design)
+- SQLAlchemy ORM (database schema design, table and object relationships, CRUD operations)      )
+- Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
+- FastAPI (backend logic, HTTP methods, app routing, request handling, asynchronous endpoints)
+- Werkzeug, Passlib, bcrypt, SHA-256 (password hashing, cryptographic hashing)
+- cryptography.Fernet - (authenticated symmetric encryption) 
+  
