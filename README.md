@@ -79,6 +79,7 @@ A high performance application-driven and database-integrated project to reinfor
 - orders.py - handles current order status logic
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
+ 
 
 4. Tech Stack
 - Python (data types, formatted console output, control flow, error handling)
