@@ -81,8 +81,22 @@ A high performance application-driven and database-integrated project to reinfor
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
  
+# 4. Employee task tracking application
 
-# 4. Tech Stack
+Real-world personal software project
+
+# 4.1. Description:
+
+A full-stack lightweight application that track employee task status and progress developed by combining Flask structured backend logic with responsive web page design 
+
+# 4.2. Key features added:
+
+- Engineered 50 Flask endpoints by implementing app routing, request handling to support scalable backend-driven operations such as user 
+- Implemented SQLAlchemy ORM modes and table relationships to support scalable task data management operations
+- Managed secure user login credentials by implementing Werkzeug password hashing 
+- Developed a grid-based responsive design UI by applying HTML web page structure and CSS styling to bind it with Flask backend through template rendering 
+
+# 5. Tech Stack
 - Python (data types, formatted console output, control flow, error handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database, lightweight web application and password managers design)
 - SQLAlchemy ORM (database schema design, table and object relationships, CRUD operations)      )
