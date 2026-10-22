@@ -64,7 +64,7 @@ A high performance application-driven and database-integrated project to reinfor
 
 # 3.2. Key features made:
 
-- Applied FastAPI routing to organize shopping app structure and backend logic
+- Engineered 46 FastAPI routing endpoints to organize shopping app structure and backend logic
 - Applied asynchronous endpoints for structured high-performance web application design
 - Applied HTTP methods such as GET and POST to retrieve and submit customer info
 - Supported scalable item stock data management operations within FastAPI-SQLAlchemy by               implementing SQLAlchemy ORM models and table relationships 
@@ -92,7 +92,7 @@ A full-stack lightweight application that track employee task status and progres
 
 # 4.2. Key features added:
 
-- Engineered 50 Flask endpoints by implementing app routing, request handling to support scalable backend-driven operations such as user 
+- Engineered 50 Flask endpoints by implementing app routing, request handling to support scalable backend functionality 
 - Implemented SQLAlchemy ORM modes and table relationships to support scalable task data management operations
 - Managed secure user login credentials by implementing Werkzeug password hashing 
 - Developed a grid-based responsive design UI by applying HTML web page structure and CSS styling to bind it with Flask backend through Jinja2 template rendering 
