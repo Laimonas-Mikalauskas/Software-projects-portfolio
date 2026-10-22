@@ -42,8 +42,9 @@ player, enemies and projectiles movement by simulating real battle
 - Basic collision detection
 - Player and enemies movement
 - Visualisation of animation states by implementing 2D graphic design 
-- Implementation of SQLAlchemy ORM for scalable players info and score management operations
-- Backend logic (app routing, templates rendering, request handling)
+- Implemented SQLAlchemy ORM models and table relationships to support scalable players info and score data management operations
+- Developed server-side functionality by applying backend logic (app routing, templates rendering, request handling)
+
 
 # 2.3 Project structure: 
 
@@ -94,7 +95,7 @@ A full-stack lightweight application that track employee task status and progres
 - Engineered 50 Flask endpoints by implementing app routing, request handling to support scalable backend-driven operations such as user 
 - Implemented SQLAlchemy ORM modes and table relationships to support scalable task data management operations
 - Managed secure user login credentials by implementing Werkzeug password hashing 
-- Developed a grid-based responsive design UI by applying HTML web page structure and CSS styling to bind it with Flask backend through template rendering 
+- Developed a grid-based responsive design UI by applying HTML web page structure and CSS styling to bind it with Flask backend through Jinja2 template rendering 
 
 # 5. Tech Stack
 - Python (data types, formatted console output, control flow, error handling)
