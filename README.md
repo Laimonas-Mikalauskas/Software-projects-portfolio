@@ -98,9 +98,10 @@ A full-stack lightweight application that track employee task status and progres
 - Developed a grid-based responsive design UI by applying HTML web page structure and CSS styling to bind it with Flask backend through Jinja2 template rendering 
 
 # 5. Tech Stack
+- HTML & CSS (UI structure development and design)
 - Python (data types, formatted console output, control flow, error handling)
-- OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database, lightweight web application and password managers design)
-- SQLAlchemy ORM (database schema design, table and object relationships, CRUD operations)      )
+- OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures)         database, lightweight web application and password managers design)
+- SQLAlchemy ORM (database schema design, table and object relationships, CRUD operations)      
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
 - FastAPI (backend logic, HTTP methods, app routing, request handling, asynchronous endpoints)
 - Werkzeug, Passlib, bcrypt, SHA-256 (password hashing, cryptographic hashing)
